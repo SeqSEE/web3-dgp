@@ -1,0 +1,6 @@
+import Deployment from '@/interfaces/Deployment';
+export const contracts: Deployment = {
+  DGP: '0000000000000000000000000000000000000088',
+  Governance: '0000000000000000000000000000000000000089',
+  Budget: '0000000000000000000000000000000000000090',
+};
